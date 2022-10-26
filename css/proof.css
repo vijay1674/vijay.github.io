@@ -1,0 +1,125 @@
+.nav{
+	background-color: black;
+	height: 650px;
+	position: fixed;
+	float: left;
+}
+.main{
+	background-image: url('../image/a2.jpg');
+	height: 650px;
+	float: right;
+	background-size: cover;
+
+}
+h1{
+	font-family: monospace;
+	color: white;
+	margin-left: 70px;
+	margin-top: 250px;
+	font-size: 50px;
+}
+.about{
+	background-color: white;
+	height: 750px;
+	float: right;
+	color: black;
+}
+.resume{
+	background-color: white;
+	height: 700px;
+	float: right;
+}
+.contact{
+	background-color: lightgrey;
+	height: 500px;
+	float: right;
+}
+.copy{
+	background-color: white;
+	height: 200px;
+}
+.a{
+	text-decoration: none;
+	font-size: 20px;
+	align-content: center;
+	color: gray;
+	font-family: serif;
+	margin-left: 30px;
+
+}
+a:hover{
+	color: white;
+	text-decoration: none;
+}
+a:active{
+	color: blue;
+	text-decoration: none;
+}
+.img{
+	background-size: cover;
+	height: 80px;
+	width: 80px;
+	margin-left: 120px;
+	border: 1px solid black;
+	border-radius: 70px;
+	margin-top: 30px;
+}
+i{
+	color: grey;
+	font-size: 25px;
+	margin-left: 10px;
+}
+i:hover{
+	color: white;
+}
+.about1{
+	border-bottom: dotted;
+	border-color: dodgerblue;
+}
+.about2{
+	height: 90%;
+	width: 70%;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+.about3{
+	font-size: 30px;
+	color: dodgerblue;
+}
+span{
+	font-size: 20px;
+	font-family: serif;
+}
+.about4{
+	font-family: monospace;
+	text-align: center;
+	border-bottom: 2px dotted dodgerblue;
+	display: inline;
+}
+.resume1{
+	font-family: sans-serif;
+	font-size: 26px;
+	border-bottom: 2px dashed lightgrey;
+	display: inline;
+}
+.resume2{
+	font-family: serif;
+	font-size: 20px;
+}
+.resume3{
+	font-family: monospace;
+	font-size: 22px;
+}
+.resume4{
+	border: 2px solid grey;
+	display: inline;
+}
+.resume5{
+	font-family: monospace;
+	font-size: 24px;
+	top: 45px;
+	margin-top: 125px;
+}
+.last{
+	margin-top: 35px;
+}
